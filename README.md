@@ -8,7 +8,7 @@ Our goal is to make the most out of the Internet through small websites.
 
 ## Current focus
 
-Currently, Dawn. is focused on building its Newslater. app. You can find more information on this project over [https://github.com/Dawn-Incorporated/newslater](here).
+Currently, Dawn. is focused on building its Newslater. app. You can find more information on this project over [here](https://github.com/Dawn-Incorporated/newslater).
 
 ## The team
 
